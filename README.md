@@ -1,6 +1,6 @@
-##Name: HARISH S 
+Name: HARISH S 
 
-##Reg: 212224230086
+Reg: 212224230086
 #Project Based Experiments
 ## Objective :
  Build a Multilayer Perceptron (MLP) to classify handwritten digits in python
